@@ -1,5 +1,5 @@
 name: "vprofile actions"
-on: workflow_dipatch # manual trigger
+on: workflow_dispatch # manual trigger
 env:
   AWS_REGION: us-east-2
   ECR_REPOSITORY: actions-app
